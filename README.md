@@ -1,23 +1,21 @@
-## 🙋‍♂️ hey hey hey
+# 🙋‍♂️ hey hey hey
+<p align="center">
+ <a href="https://twitter.com/totostache">🐦 Twitter</a> •
+ <a href="https://www.linkedin.com/in/tbille">👨‍💼 LinkedIn</a> •
+ <a href="https://instagram.com/totostache/">📷 Instagram</a> •
+ <a href="mailto:toto@bille.dev">✉️ Mail</a>
+</p>
+<p align="center">
+  📖 Open minded • 👨‍🏫 Helpful • 👥 Collaborative
+</p>
 
-- 🧔 I am [toto](https://toto.space/).
+- 🧔 I am [toto](https://toto.space/)
 - 🇫🇷 and 🇨🇦 in 🇬🇧
-- 🏢 **Web developer** at [Canonical](https://github.com/canonical).
-- 🐧 Lead on the **Web & Design team** of [snapcraft](https://snapcraft.io/).
-- 🖥️ **Ubuntu** addict. **Python** developer.
-- ☕ Loves coffee rom **roasting** to **enjoying**
+- 🏢 **Web developer** at [Canonical](https://github.com/canonical)
+- 🐧 Lead on the **Web & Design team** of [snapcraft](https://snapcraft.io/)
+- 🖥️ **Ubuntu** addict. **Python** developer
+- ☕ Loves coffee from **roasting** to **enjoying**
 
-## 🙏 values
-
-- 📖 Open minded
-- 👨‍🏫 Helpful
-- 👥 Collaborative
-
-## 🗣️ Want to chat with me?
-
-- 🐦 [Twitter](https://twitter.com/totostache)
-- 👨‍💼 [LinkedIn](https://www.linkedin.com/in/tbille)
-- 📷 [Instagram](https://instagram.com/totostache/)
-- ✉️ [Mail](mailto:toto@bille.dev)
+💓 _Free and Open Source Sofware_
 
 **PROFILE IN PROGRESS**
