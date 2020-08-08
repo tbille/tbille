@@ -1,12 +1,23 @@
-## What do I do?
+## 🙋‍♂️ hey hey hey
 
-Web developer at [Canonical](https://github.com/canonical).
+- 🧔 I am [toto](https://toto.space/).
+- 🇫🇷 and 🇨🇦 in 🇬🇧
+- 🏢 **Web developer** at [Canonical](https://github.com/canonical).
+- 🐧 Lead on the **Web & Design team** of [snapcraft](https://snapcraft.io/).
+- 🖥️ **Ubuntu** addict. **Python** developer.
+- ☕ Loves coffee rom **roasting** to **enjoying**
 
-Lead on the Web & Design team that works on [snapcraft](https://snapcraft.io/).
+## 🙏 values
 
-## Tech love
+- 📖 Open minded
+- 👨‍🏫 Helpful
+- 👥 Collaborative
 
-![Python](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.RD41a80VdU3C-HfFcjAleAHaDI%26pid%3DApi&f=1)
-![Flask](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.osnbrmpnqfKNC47fuvTToAHaHa%26pid%3DApi&f=1)
+## 🗣️ Want to chat with me?
 
-**README IN PROGRESS**
+- 🐦 [Twitter](https://twitter.com/totostache)
+- 👨‍💼 [LinkedIn](https://www.linkedin.com/in/tbille)
+- 📷 [Instagram](https://instagram.com/totostache/)
+- ✉️ [Mail](mailto:toto@bille.dev)
+
+**PROFILE IN PROGRESS**
