@@ -1,4 +1,5 @@
 # 🙋‍♂️ hey hey hey
+
 <p align="center">
  <a href="https://twitter.com/totostache">🐦 Twitter</a> •
  <a href="https://www.linkedin.com/in/tbille">👨‍💼 LinkedIn</a> •
@@ -9,7 +10,7 @@
   📖 Open minded • 👨‍🏫 Helpful • 👥 Collaborative
 </p>
 
-- 🧔 I am [toto](https://toto.space/)
+## 🧔 Who is [toto](https://toto.space/)?
 - 🇫🇷 and 🇨🇦 in 🇬🇧
 - 🏢 **Web developer** at [Canonical](https://github.com/canonical)
 - 🐧 Lead on the **Web & Design team** of [snapcraft](https://snapcraft.io/)
@@ -17,5 +18,3 @@
 - ☕ Loves coffee from **roasting** to **enjoying**
 
 💓 _Free and Open Source Sofware_
-
-**PROFILE IN PROGRESS**
