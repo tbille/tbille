@@ -13,7 +13,7 @@
 ## 🧔 Who is [toto](https://toto.space/)?
 - 🇫🇷 and 🇨🇦 in 🇳🇱
 - 🏢 **Web developer** at [Canonical](https://github.com/canonical)
-- 🐧 Lead on the **Web & Design team** of [snapcraft](https://snapcraft.io/)
+- 🐧 Engineering manager on the **Web & Design team**
 - 🖥️ **Ubuntu** addict. **Python** developer
 - ☕ Loves coffee from **roasting** to **enjoying**
 
