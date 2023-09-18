@@ -1,7 +1,6 @@
 # 🙋‍♂️ hey hey hey
 
 <p align="center">
- <a href="https://twitter.com/totostache">🐦 Twitter</a> •
  <a href="https://www.linkedin.com/in/tbille">👨‍💼 LinkedIn</a> •
  <a href="https://instagram.com/totostache/">📷 Instagram</a> •
  <a href="mailto:toto@bille.dev">✉️ Mail</a>
@@ -10,10 +9,9 @@
   📖 Open minded • 👨‍🏫 Helpful • 👥 Collaborative
 </p>
 
-## 🧔 Who is [toto](https://toto.space/)?
+## 🧔 Who is [Thomas (toto) Bille](https://bille.dev)?
 - 🇫🇷 and 🇨🇦 in 🇳🇱
-- 🏢 **Web developer** at [Canonical](https://github.com/canonical)
-- 🐧 Engineering manager on the **Web & Design team**
+- 🐧 Previously Engineering manager on the **Web & Design team** at [Canonical](https://github.com/canonical)
 - 🖥️ **Ubuntu** addict. **Python** developer
 - ☕ Loves coffee from **roasting** to **enjoying**
 
