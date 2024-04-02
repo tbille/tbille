@@ -1,7 +1,5 @@
 # 🙋‍♂️ Thomas (toto) Bille
 
-> I am currently available for hire. Please don't hesitate to reach me [on LinkedIn](https://www.linkedin.com/in/tbille).
-
 ## Who am I?
 
 <p align="center">
